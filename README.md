@@ -5,7 +5,7 @@ Telegram-бот для анализа вакансий Data Analyst с визу�
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://telegram.org)
 
-![Пример работы бота](images/bot_demo.gif)
+![Пример работы бота](bot_demo.gif)
 
 ## 🔍 Возможности 
 - Анализ востребованных навыков
