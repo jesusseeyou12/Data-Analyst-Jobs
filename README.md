@@ -17,3 +17,4 @@ Telegram-бот для анализа вакансий Data Analyst с визу�
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/ваш-username/DataAnalystJobsBot.git
+## 🔍 Возможности
